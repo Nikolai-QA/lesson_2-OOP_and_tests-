@@ -17,5 +17,3 @@ class Circle(Figure):
         return math.pi * self.radius * 2
 
 c = Circle(5)
-
-
