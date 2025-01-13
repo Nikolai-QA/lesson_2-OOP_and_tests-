@@ -19,6 +19,6 @@ class Triangle(Figure):
         return self.side_a + self.side_b + self.side_c
 
 t = Triangle(4,9,8)
-print(t.perimeter)
+
 
 

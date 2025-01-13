@@ -18,4 +18,4 @@ class Circle(Figure):
 
 c = Circle(5)
 
-print(c.area)
+

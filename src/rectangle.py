@@ -18,4 +18,4 @@ class Rectangle(Figure):
         return (self.side_a + self.side_b) * 2
 
 r = Rectangle(9, 4)
-print(r.add_area(r))
+

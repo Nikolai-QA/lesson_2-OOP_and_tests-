@@ -14,7 +14,7 @@ class Square(Figure):
         return self.side_a * 4
 
 s = Square(6)
-print(s.perimeter)
+
 
 
 
